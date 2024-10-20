@@ -76,10 +76,10 @@ const about = () => {
                 src={profilePic}
                 alt="profile Pic"
                 className="w-full h-auto rounded-2xl"
-                priority
                 sizes="(max-width:768px),100vm,
                 (max-width:1200px),50vm,
                 33vm"
+                priority
               />
             </div>
 
